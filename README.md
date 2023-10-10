@@ -1,2 +1,2 @@
 # Network_Study
-Network Study Repository
+This is the Network Study Data I studied during my undergraduate years.
